@@ -1,0 +1,10 @@
+C:\Users\x1060482\source\repos\CalculatorApp\bin\Release\CalculatorApp.exe.config
+C:\Users\x1060482\source\repos\CalculatorApp\bin\Release\CalculatorApp.exe
+C:\Users\x1060482\source\repos\CalculatorApp\bin\Release\CalculatorApp.pdb
+C:\Users\x1060482\source\repos\CalculatorApp\obj\Release\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\x1060482\source\repos\CalculatorApp\obj\Release\CalculatorApp.Form1.resources
+C:\Users\x1060482\source\repos\CalculatorApp\obj\Release\CalculatorApp.Properties.Resources.resources
+C:\Users\x1060482\source\repos\CalculatorApp\obj\Release\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\x1060482\source\repos\CalculatorApp\obj\Release\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\x1060482\source\repos\CalculatorApp\obj\Release\CalculatorApp.exe
+C:\Users\x1060482\source\repos\CalculatorApp\obj\Release\CalculatorApp.pdb
